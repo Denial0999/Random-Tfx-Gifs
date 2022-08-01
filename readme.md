@@ -1,3 +1,3 @@
-# Fallout Music
+# Gif Tfx's
 
-## After you clone the repo do `npm install` to install all the packages and change the bot's token in the config folder
+## This Is Honestly Just Randomly Thrown Together From Some Gif's Ive Found
